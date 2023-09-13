@@ -1,0 +1,62 @@
+ [
+        {
+            "id": 1,
+            "title": "TWS 1",
+            "price": 699.99,
+            "image_url": "https://i.ibb.co/RNCnwNR/2.jpg"
+        },
+        {
+            "id": 2,
+            "title": "TWS 2",
+            "price": 1299.99,
+            "image_url": "https://i.ibb.co/867YKzQ/1.webp"
+        },
+        {
+            "id": 3,
+            "title": "TWS 3",
+            "price": 349.99,
+            "image_url": "https://i.ibb.co/10gh6J7/3.jpg"
+        },
+        {
+            "id": 4,
+            "title": "MACBOOK",
+            "price": 249.99,
+            "image_url": "https://i.ibb.co/Y2BTF1k/5.webp"
+        },
+        {
+            "id": 5,
+            "title": "Smartwatch",
+            "price": 99.99,
+            "image_url": "https://i.ibb.co/J2RgZrR/7.webp"
+        },
+        {
+            "id": 6,
+            "title": "Digital Camera",
+            "price": 499.99,
+            "image_url": "https://i.ibb.co/yfSYYhc/6.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Smartwatch 2",
+            "price": 399.99,
+            "image_url": "https://i.ibb.co/k5PSK25/8.webp"
+        },
+        {
+            "id": 8,
+            "title": "Iphone 15",
+            "price": 79.99,
+            "image_url": "https://i.ibb.co/hBzVNTQ/9.webp"
+        },
+        {
+            "id": 9,
+            "title": "Laptop Lenevo",
+            "price": 149.99,
+            "image_url": "https://i.ibb.co/dPPQ98Z/ideapad-3-14aba7-01-500x500.webp"
+        },
+        {
+            "id": 10,
+            "title": "E-book Smartphone",
+            "price": 129.99,
+            "image_url": "https://i.ibb.co/82G91fm/10.webp"
+        }
+    ]
